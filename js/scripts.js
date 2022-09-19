@@ -1,5 +1,4 @@
 function newItem() {
-  //javascript
   //1. Adding a new item to the list of items:
 
   let li = $("<li></li>");
@@ -33,10 +32,6 @@ function newItem() {
   function deleteListItem() {
     li.addClass("delete");
   }
-
-  // function deleteListItem() {
-  //   li.classList.add("delete");
-  // }
 
   // 4. Reordering the items:
   $("#list").sortable();
