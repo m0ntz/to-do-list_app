@@ -1,7 +1,8 @@
 # To-Do-List App
 
-This simple app lets the users perform the following actions:
+👉See it live [HERE](https://m0ntz.github.io/to-do-list_app/)
 
+## Features
 
 - Add a item on the list
 - Cross a item on the list
