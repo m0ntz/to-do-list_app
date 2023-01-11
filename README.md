@@ -2,6 +2,11 @@
 
 👉See it live [HERE](https://m0ntz.github.io/to-do-list_app/)
 
+## Tech Stack
+- HTML
+- CSS
+- Vanilla JavaScript
+
 ## Features
 
 - Add a item on the list
