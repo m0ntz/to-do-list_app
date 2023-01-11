@@ -1,6 +1,6 @@
 # To-Do-List App
 
-👉See it live [HERE](https://m0ntz.github.io/to-do-list_app/)
+👉Live Version [HERE](https://m0ntz.github.io/to-do-list_app/)
 
 ## Tech Stack
 - HTML
